@@ -2,4 +2,4 @@
 
 Presentation here:
 
-https://beta.rstudioconnect.com/content/3196/#1
+https://colorado.rstudio.com/rsc/IntroRDBs/
